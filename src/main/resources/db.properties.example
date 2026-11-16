@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/BarberShopDB
+db.user=root
+db.password=PUNE_PAROLA_AICI
